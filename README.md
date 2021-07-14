@@ -1,6 +1,11 @@
-# Setup
+# Introduction
 
 First of all a big thanks to @[jilam5555](https://github.com/jlam55555) for writing the driver for veikk graphic tablet see [this](https://github.com/jlam55555/veikk-linux-driver)
+
+This Python script allow customization to veikk Tablets button on Linux
+
+# Setup
+
 
 You must have the following dependencies to get started
 
@@ -27,3 +32,4 @@ follow the instructions to setup the shortcut keys.
 
 The mapping is saved in `shortcut.pkl` file so if you want to reset , delete the file.
 
+You have to ReRun the script everytime manually when you want to apply the mappings to Tablet's keys
